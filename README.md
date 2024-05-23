@@ -154,6 +154,8 @@ i членiв ряду, i суми на рекурсивному поверне�
 
 ![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/ca97a880-009b-4066-844a-c30a22eb181f)
 
+[solution](https://github.com/dufedanceq/ASDLabs1Year/tree/main/2nd%20semester/lab1)
+
 ## lab 2
 
 ### Загальна постановка завдання:
@@ -185,6 +187,8 @@ i членiв ряду, i суми на рекурсивному поверне�
 
 ![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/4ffcd24e-0fd4-4ca7-a669-81926718973d)
 
+[solution](https://github.com/dufedanceq/ASDLabs1Year/tree/main/2nd%20semester/lab2)
+
 ## lab 3
 
 ### Загальна постановка завдання:
@@ -196,6 +200,8 @@ i членiв ряду, i суми на рекурсивному поверне�
 ### Завдання за варіантом:
 
 ![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/8485d643-f699-4ca0-a53d-04e93a881867)
+
+[solution](https://github.com/dufedanceq/ASDLabs1Year/tree/main/2nd%20semester/lab3)
 
 ## lab 4
 
