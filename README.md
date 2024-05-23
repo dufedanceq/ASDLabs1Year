@@ -17,7 +17,9 @@
 ### Завдання за варіантом:
 
 ![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/b2c517f7-9b97-4be0-b45f-38e62cf7e4a0)
+
 [solution](https://github.com/dufedanceq/ASDLabs1Year/tree/main/1st%20semester/lab1.1)
+
 ## lab 1.2
 
 ### Загальна постановка завдання:
