@@ -43,6 +43,8 @@
 
 ![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/677a378f-9735-41aa-b996-9c811bb29be0)
 
+[solution](https://github.com/dufedanceq/ASDLabs1Year/tree/main/1st%20semester/lab1.2)
+
 ## lab 1.5
 
 ### Загальна постановка завдання:
@@ -59,6 +61,8 @@
 ### Завдання за варіантом:
 
 ![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/67cba8b4-9ba3-4397-bf97-f524a68ac2b8)
+
+[solution](https://github.com/dufedanceq/ASDLabs1Year/tree/main/1st%20semester/lab1.5)
 
 ## lab 1.6
 
@@ -82,6 +86,8 @@
 
 ![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/7fe8e51c-24b3-4f39-bbe9-7d790ac9e671)
 
+[solution](https://github.com/dufedanceq/ASDLabs1Year/tree/main/1st%20semester/lab1.6)
+
 ## lab 2.1
 
 ### Загальна постановка завдання:
@@ -99,6 +105,8 @@
 ### Завдання за варіантом:
 
 ![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/064a01ef-7ac5-407a-87b7-75a16fc37ae3)
+
+[solution](https://github.com/dufedanceq/ASDLabs1Year/tree/main/1st%20semester/lab2.1)
 
 ## lab 2.2
 
@@ -122,6 +130,8 @@
 ### Завдання за варіантом:
 
 ![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/fb152942-7f99-4092-9bbc-19e1b0ed5247)
+
+[solution](https://github.com/dufedanceq/ASDLabs1Year/tree/main/1st%20semester/lab2.2)
 
 # **Second semester**
 
