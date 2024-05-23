@@ -1,5 +1,3 @@
-# ASDLabs1Year
-ASD labs 1 year ez
 # lab 1.1
 
 Загальна постановка завдання:
