@@ -1,4 +1,4 @@
-# First semester
+# **First semester**
 ## lab 1.1
 
 ### Загальна постановка завдання:
