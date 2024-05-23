@@ -1,4 +1,4 @@
-![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/c1d0d277-7be4-471e-bf38-2a7edd387692)# **First semester**
+# **First semester**
 ## lab 1.1
 
 ### Загальна постановка завдання:
