@@ -207,9 +207,9 @@ i членiв ряду, i суми на рекурсивному поверне�
 
 ### Загальна постановка завдання:
 
-![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/e037ef50-be93-4b32-820b-10982c84ed63)
+![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/5b74c035-021e-4451-b084-627977894d61)
 
-![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/180e885d-d4b9-4ecf-be2a-50940092f1d8)
+![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/0356371c-2c3e-4726-9332-dc5a1c6404fd)
 
 ### Завдання за варіантом:
 
