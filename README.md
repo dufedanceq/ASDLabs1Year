@@ -217,4 +217,4 @@ i членiв ряду, i суми на рекурсивному поверне�
 
 [solution](https://github.com/dufedanceq/ASDLabs1Year/tree/main/2nd%20semester/lab4)
 
-## lab 3
+## lab 5
