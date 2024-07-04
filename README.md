@@ -244,6 +244,3 @@ i членiв ряду, i суми на рекурсивному поверне�
 ![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/fd59bb0c-102d-4ed3-8cb8-baf8980eeb4f)
 
 [solution](https://github.com/dufedanceq/ASDLabs1Year/tree/main/2nd%20semester/lab6)
-
-
-[solution](https://github.com/dufedanceq/ASDLabs1Year/tree/main/2nd%20semester/lab5)
