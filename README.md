@@ -228,3 +228,5 @@ i членiв ряду, i суми на рекурсивному поверне�
 ### Завдання за варіантом:
 
 ![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/0c490597-d3ad-41b3-86e2-b075f6ef617a)
+
+[solution](https://github.com/dufedanceq/ASDLabs1Year/tree/main/2nd%20semester/lab5)
