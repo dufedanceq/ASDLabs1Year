@@ -230,3 +230,20 @@ i членiв ряду, i суми на рекурсивному поверне�
 ![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/0c490597-d3ad-41b3-86e2-b075f6ef617a)
 
 [solution](https://github.com/dufedanceq/ASDLabs1Year/tree/main/2nd%20semester/lab5)
+
+## lab 6
+
+### Загальна постановка завдання:
+
+![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/0846ce12-a70e-41ff-8bda-e10aa63cae9b)
+
+![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/a5376a6b-dd94-419a-8fa8-3aba875b979b)
+
+### Завдання за варіантом:
+
+![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/fd59bb0c-102d-4ed3-8cb8-baf8980eeb4f)
+
+[solution](https://github.com/dufedanceq/ASDLabs1Year/tree/main/2nd%20semester/lab6)
+
+
+[solution](https://github.com/dufedanceq/ASDLabs1Year/tree/main/2nd%20semester/lab5)
