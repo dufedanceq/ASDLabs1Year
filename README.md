@@ -218,3 +218,13 @@ i членiв ряду, i суми на рекурсивному поверне�
 [solution](https://github.com/dufedanceq/ASDLabs1Year/tree/main/2nd%20semester/lab4)
 
 ## lab 5
+
+### Загальна постановка завдання:
+
+![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/470b4c58-6e0b-4895-b96d-4709376a47db)
+
+![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/3414bad9-f4da-4d0f-82fe-7873fac9303f)
+
+### Завдання за варіантом:
+
+![image](https://github.com/dufedanceq/ASDLabs1Year/assets/103373187/0c490597-d3ad-41b3-86e2-b075f6ef617a)
